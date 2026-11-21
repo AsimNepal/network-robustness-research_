@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="390" viewBox="0 0 1050 390">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#233348} .small{font-size:11px} .title{font-size:15px;font-weight:bold}</style>
+<text x="40" y="22" class="title">Random Graph</text>
+<line x1="40" y1="303.0" x2="305" y2="303.0" stroke="#e5eaf0"/>
+<text x="32" y="307.0" text-anchor="end" class="small">0</text>
+<line x1="40" y1="239.2" x2="305" y2="239.2" stroke="#e5eaf0"/>
+<text x="32" y="243.2" text-anchor="end" class="small">0.25</text>
+<line x1="40" y1="175.5" x2="305" y2="175.5" stroke="#e5eaf0"/>
+<text x="32" y="179.5" text-anchor="end" class="small">0.5</text>
+<line x1="40" y1="111.8" x2="305" y2="111.8" stroke="#e5eaf0"/>
+<text x="32" y="115.8" text-anchor="end" class="small">0.75</text>
+<line x1="40" y1="48.0" x2="305" y2="48.0" stroke="#e5eaf0"/>
+<text x="32" y="52.0" text-anchor="end" class="small">1</text>
+<path d="M40 48 V303 H305" fill="none" stroke="#566477"/>
+<polyline points="40.0,51.2 53.2,63.7 66.5,77.5 79.8,90.8 93.0,103.8 106.2,116.5 119.5,130.3 132.8,147.3 146.0,163.8 159.2,179.7 172.5,194.6 185.8,214.8 199.0,232.6 212.2,253.6 225.5,271.1 238.8,278.6 252.0,284.7 265.2,292.4 278.5,295.8 291.8,298.5 305.0,303.0" fill="none" stroke="#2377bd" stroke-width="2.5"/>
+<polyline points="40.0,51.2 53.2,65.5 66.5,81.7 79.8,98.2 93.0,119.2 106.2,147.1 119.5,188.2 132.8,219.6 146.0,243.2 159.2,263.4 172.5,278.3 185.8,285.7 199.0,292.1 212.2,292.9 225.5,294.8 238.8,296.6 252.0,297.4 265.2,298.5 278.5,299.5 291.8,299.8 305.0,303.0" fill="none" stroke="#db7935" stroke-width="2.5"/>
+<polyline points="40.0,51.2 53.2,65.8 66.5,82.3 79.8,98.2 93.0,128.0 106.2,175.8 119.5,235.8 132.8,273.5 146.0,288.1 159.2,294.0 172.5,296.6 185.8,298.5 199.0,299.5 212.2,299.8 225.5,299.8 238.8,299.8 252.0,299.8 265.2,299.8 278.5,299.8 291.8,299.8 305.0,303.0" fill="none" stroke="#bd355d" stroke-width="2.5"/>
+<text x="172.5" y="331" text-anchor="middle" class="small">Fraction of nodes removed</text>
+<text x="40" y="318" text-anchor="middle" class="small">0</text>
+<text x="172.5" y="318" text-anchor="middle" class="small">0.5</text>
+<text x="305" y="318" text-anchor="middle" class="small">1</text>
+<text x="385" y="22" class="title">Small World</text>
+<line x1="385" y1="303.0" x2="650" y2="303.0" stroke="#e5eaf0"/>
+<text x="377" y="307.0" text-anchor="end" class="small">0</text>
+<line x1="385" y1="239.2" x2="650" y2="239.2" stroke="#e5eaf0"/>
+<text x="377" y="243.2" text-anchor="end" class="small">0.25</text>
+<line x1="385" y1="175.5" x2="650" y2="175.5" stroke="#e5eaf0"/>
+<text x="377" y="179.5" text-anchor="end" class="small">0.5</text>
+<line x1="385" y1="111.8" x2="650" y2="111.8" stroke="#e5eaf0"/>
+<text x="377" y="115.8" text-anchor="end" class="small">0.75</text>
+<line x1="385" y1="48.0" x2="650" y2="48.0" stroke="#e5eaf0"/>
+<text x="377" y="52.0" text-anchor="end" class="small">1</text>
+<path d="M385 48 V303 H650" fill="none" stroke="#566477"/>
+<polyline points="385.0,48.0 398.2,60.8 411.5,73.5 424.8,86.5 438.0,101.7 451.2,115.2 464.5,130.6 477.8,155.8 491.0,186.1 504.2,213.0 517.5,229.7 530.8,255.5 544.0,261.6 557.2,271.4 570.5,277.8 583.8,285.7 597.0,288.9 610.2,292.6 623.5,295.3 636.8,299.0 650.0,303.0" fill="none" stroke="#2377bd" stroke-width="2.5"/>
+<polyline points="385.0,48.0 398.2,60.8 411.5,77.0 424.8,105.4 438.0,128.0 451.2,151.6 464.5,172.0 477.8,184.3 491.0,199.1 504.2,215.3 517.5,230.8 530.8,241.1 544.0,251.2 557.2,258.9 570.5,275.9 583.8,288.1 597.0,293.7 610.2,296.4 623.5,296.9 636.8,299.3 650.0,303.0" fill="none" stroke="#db7935" stroke-width="2.5"/>
+<polyline points="385.0,48.0 398.2,60.8 411.5,78.0 424.8,98.2 438.0,119.5 451.2,168.3 464.5,214.0 477.8,256.2 491.0,279.1 504.2,281.8 517.5,288.4 530.8,295.6 544.0,296.6 557.2,299.0 570.5,299.8 583.8,299.8 597.0,299.8 610.2,299.8 623.5,299.8 636.8,299.8 650.0,303.0" fill="none" stroke="#bd355d" stroke-width="2.5"/>
+<text x="517.5" y="331" text-anchor="middle" class="small">Fraction of nodes removed</text>
+<text x="385" y="318" text-anchor="middle" class="small">0</text>
+<text x="517.5" y="318" text-anchor="middle" class="small">0.5</text>
+<text x="650" y="318" text-anchor="middle" class="small">1</text>
+<text x="730" y="22" class="title">Preferential Attachment</text>
+<line x1="730" y1="303.0" x2="995" y2="303.0" stroke="#e5eaf0"/>
+<text x="722" y="307.0" text-anchor="end" class="small">0</text>
+<line x1="730" y1="239.2" x2="995" y2="239.2" stroke="#e5eaf0"/>
+<text x="722" y="243.2" text-anchor="end" class="small">0.25</text>
+<line x1="730" y1="175.5" x2="995" y2="175.5" stroke="#e5eaf0"/>
+<text x="722" y="179.5" text-anchor="end" class="small">0.5</text>
+<line x1="730" y1="111.8" x2="995" y2="111.8" stroke="#e5eaf0"/>
+<text x="722" y="115.8" text-anchor="end" class="small">0.75</text>
+<line x1="730" y1="48.0" x2="995" y2="48.0" stroke="#e5eaf0"/>
+<text x="722" y="52.0" text-anchor="end" class="small">1</text>
+<path d="M730 48 V303 H995" fill="none" stroke="#566477"/>
+<polyline points="730.0,48.0 743.2,60.8 756.5,74.3 769.8,88.4 783.0,101.9 796.2,119.2 809.5,135.1 822.8,155.0 836.0,179.5 849.2,199.1 862.5,213.0 875.8,229.2 889.0,249.1 902.2,260.2 915.5,270.3 928.8,278.3 942.0,286.8 955.2,290.2 968.5,295.8 981.8,298.0 995.0,303.0" fill="none" stroke="#2377bd" stroke-width="2.5"/>
+<polyline points="730.0,48.0 743.2,75.4 756.5,142.6 769.8,225.4 783.0,262.6 796.2,279.9 809.5,284.1 822.8,288.9 836.0,292.9 849.2,295.0 862.5,297.2 875.8,299.3 889.0,299.8 902.2,299.8 915.5,299.8 928.8,299.8 942.0,299.8 955.2,299.8 968.5,299.8 981.8,299.8 995.0,303.0" fill="none" stroke="#db7935" stroke-width="2.5"/>
+<polyline points="730.0,48.0 743.2,77.2 756.5,143.6 769.8,232.1 783.0,270.1 796.2,285.2 809.5,291.0 822.8,295.8 836.0,297.4 849.2,298.8 862.5,299.8 875.8,299.8 889.0,299.8 902.2,299.8 915.5,299.8 928.8,299.8 942.0,299.8 955.2,299.8 968.5,299.8 981.8,299.8 995.0,303.0" fill="none" stroke="#bd355d" stroke-width="2.5"/>
+<text x="862.5" y="331" text-anchor="middle" class="small">Fraction of nodes removed</text>
+<text x="730" y="318" text-anchor="middle" class="small">0</text>
+<text x="862.5" y="318" text-anchor="middle" class="small">0.5</text>
+<text x="995" y="318" text-anchor="middle" class="small">1</text>
+<line x1="225" y1="365" x2="255" y2="365" stroke="#2377bd" stroke-width="3"/>
+<text x="261" y="369" class="small">random</text>
+<line x1="450" y1="365" x2="480" y2="365" stroke="#db7935" stroke-width="3"/>
+<text x="486" y="369" class="small">degree</text>
+<line x1="675" y1="365" x2="705" y2="365" stroke="#bd355d" stroke-width="3"/>
+<text x="711" y="369" class="small">adaptive degree</text>
+</svg>
